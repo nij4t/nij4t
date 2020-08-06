@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nij4t's github stats](https://github-readme-stats.vercel.app/api?username=nij4t&count_private=true&show_icons=true)
+![nij4t's github stats](https://github-readme-stats.vercel.app/api?username=nij4t&count_private=true&show_icons=true&hide_border=true)
 
 <br />
 
