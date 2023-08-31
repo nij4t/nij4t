@@ -1,3 +1,6 @@
+![](https://images.unsplash.com/photo-1577114995803-d8ce0e2b4aa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1746&q=80)
+
+<!--
 ### Hi there 👋
 
 <!--
@@ -15,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![nij4t's github stats](https://github-readme-stats.vercel.app/api?username=nij4t&hide=stars&show_icons=true&count_private=true&hide_border=true)
 
 <br />
